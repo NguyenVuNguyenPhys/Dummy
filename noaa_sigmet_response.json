@@ -11,7 +11,7 @@
         "hazard": "TS",
         "qualifier": "",
         "base": null,
-        "top": null,
+        "top": 15000,
         "geom": "AREA",
         "coords": [
             {
