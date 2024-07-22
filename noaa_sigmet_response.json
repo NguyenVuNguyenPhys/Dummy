@@ -1,7 +1,7 @@
 {
     "success": true,
     "error": null,
-    "sigmetInfoList":[
+    "response":[
     {
         "isigmetId": 770338, //int
         "icaoId": "SVMI", //string
