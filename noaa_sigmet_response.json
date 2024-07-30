@@ -1,51 +1,71 @@
 [
     {
-        "isigmetId": 770338, 
-        "icaoId": "SVMI", 
-        "firId": "SVZM", 
-        "firName": "SVZM MAIQUETIA",
-        "receiptTime": "2024-07-22 07:34:48",
-        "validTimeFrom": "1721627688", 
-        "validTimeTo": "1721653688",
-        "seriesId": "01", 
-        "hazard": "TS",
-        "qualifier": "",
-        "base": null,
-        "top": 15000,
-        "geom": "AREA",
-        "coords": [
-            {
-                "lat": 11,
-                "lon": -72.017
-            },
-            {
-                "lat": 8.1,
-                "lon": -72.333
-            },
-            {
-                "lat": 6.55,
-                "lon": -67.583
-            },
-            {
-                "lat": 6.65,
-                "lon": -61.883
-            },
-            {
-                "lat": 8.483,
-                "lon": -61.417
-            },
-            {
-                "lat": 10.217,
-                "lon": -65.033
-            },
-            {
-                "lat": 11.5,
-                "lon": -69.167
-            }
-        ],
-        "dir": null,
-        "spd": null, 
-        "chng": null, 
-        "rawSigmet": "WSVN31 SVMI 220130\nSVZM SIGMET 01 VALID 220130\/220530 SVMI-\nSVZM MAIQUETIA FIR TS OBS AT 0125Z WI N1060  W07201 N0766 W07180\nN0633 W06735 N0599 W06153 N0829 W06085 N0973 W06502 N1090 W06910 WI\nN1060  W07201 TOP FL240 W WKN=" 
+ "isigmetId": 765390,
+            "icaoId": "SBGL",
+            "firId": "SBAZ",
+            "firName": "SBAZ AMAZONICA",
+            "receiptTime": "2024-07-15T19:29:14+00:00",
+            "validTimeFrom": 1721100600,
+            "validTimeTo": 1721115000,
+            "seriesId": "9",
+            "hazard": "TS",
+            "qualifier": "EMBD",
+            "base": null,
+            "top": 47000,
+            "geom": "AREA",
+            "dir": "-",
+            "spd": 0,
+            "chng": "NC",
+            "rawSigmet": "WSBZ23 SBGL 160325SBAZ SIGMET 9 VALID 160330/160730 SBAZ - SBAZ AMAZONICA FIR EMBD TS FCST WI N0422 W06448 - N0207 W06349 - N0140 W06424 - S0412 W05954 - N0008 W05535 - N0211 W05652 - N0116 W05847 - N0237 W05958 - N0357 W05929 - N0523 W06010 - N0401 W06232 - N0422 W06448 TOP FL470 STNR NC=",
+       "coords": [
+                {
+                    "lat": 4.367,
+                    "lon": -64.8
+                },
+                {
+                    "lat": 2.117,
+                    "lon": -63.817
+                },
+                {
+                    "lat": 1.667,
+                    "lon": -64.4
+                },
+                {
+                    "lat": -4.2,
+                    "lon": -59.9
+                },
+                {
+                    "lat": 0.133,
+                    "lon": -55.583
+                },
+                {
+                    "lat": 2.183,
+                    "lon": -56.867
+                },
+                {
+                    "lat": 1.267,
+                    "lon": -58.783
+                },
+                {
+                    "lat": 2.617,
+                    "lon": -59.967
+                },
+                {
+                    "lat": 3.95,
+                    "lon": -59.483
+                },
+                {
+                    "lat": 5.383,
+                    "lon": -60.167
+                },
+                {
+                    "lat": 4.017,
+                    "lon": -62.533
+                },
+                {
+                    "lat": 4.367,
+                    "lon": -64.8
+                }
+            ]
     }
 ]
