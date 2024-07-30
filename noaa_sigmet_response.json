@@ -1,4 +1,5 @@
-[
+{
+    "sigmetNoaas": [
         {
             "isigmetId": 765390,
             "icaoId": "SBGL",
@@ -5790,4 +5791,4 @@
             ]
         }
     ]
-
+}
